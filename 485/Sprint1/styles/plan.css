@@ -1,0 +1,45 @@
+
+.fall-plan {
+    float: left;
+    width: 49%;
+    border: 1px solid black;
+    margin-bottom: 0.5em;
+}
+
+.winter-plan {
+    float: right;
+    width: 49%;
+    border: 1px solid black;
+    margin-bottom: 0.5em;
+}
+
+.token-generate {
+    position: relative;
+    left: 47%;
+}
+
+#quarter{
+    position: relative;
+    right: 3%;
+}
+
+.container {
+    margin-top: 0.5em;
+}
+
+
+.spring-plan {
+    float: left;
+    width: 49%;
+    border: 1px solid black;
+    margin-bottom: 0.5em;
+}
+
+
+
+.summer-plan {
+    float: right;
+    width: 49%;
+    border: 1px solid black;
+    margin-bottom: 0.5em;
+}
